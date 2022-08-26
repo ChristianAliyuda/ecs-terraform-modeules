@@ -2,6 +2,6 @@
 code
 this is for ecs terraform module 
 
-terraform init
-terraform plan 
-terraform apply 
+#terraform init
+#terraform plan 
+#terraform apply 
